@@ -1,0 +1,4 @@
+pip install deap
+pip install matplotlib
+pip install random
+pip install json
